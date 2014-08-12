@@ -5,4 +5,6 @@ Stratego
 
 [More Info](http://en.wikipedia.org/wiki/Stratego)
 
-This project contains the core of the game, no GUI. It can be used easily with any UI.
+This project contains the core of the game and its mechanics, no GUI. It can be used easily with any UI. Program.cs contains an example on how to use it.
+
+I will try to create a simple Store app to show how it works.
